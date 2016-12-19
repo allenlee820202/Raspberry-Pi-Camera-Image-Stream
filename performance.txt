@@ -1,0 +1,7 @@
+vlc
+CPU: >50%
+network: ~15%
+
+camera stream + face recognition
+CPU: >90% (can be more than 100% )
+network: ~15%

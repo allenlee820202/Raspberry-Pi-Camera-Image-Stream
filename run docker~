@@ -1,0 +1,2 @@
+# run fog-camera
+sudo docker run -it -v ~/app/fog:/app/fog -p 8000:8000 --name camera fog-camera
